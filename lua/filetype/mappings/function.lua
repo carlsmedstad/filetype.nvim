@@ -591,6 +591,7 @@ M.shebang = {
     ["bash"] = "sh",
     ["node"] = "javascript",
     ["python3"] = "python",
+    ["python2"] = "python",
 }
 
 return M
